@@ -58,10 +58,10 @@ mortgage-calculator/
 ## ✍️ Author
 
 Made with 💛 by **Tanmay Sahu**   
-Live: https://mortgage-m-repayment-calculator.netlify.app/
 
 ---
 
 ## 🎨 Design Inspiration
 
 This layout and functionality was inspired by modern financial calculators and styled with a clean user-first approach.
+Live: https://mortgage-m-repayment-calculator.netlify.app/
