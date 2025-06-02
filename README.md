@@ -58,7 +58,7 @@ mortgage-calculator/
 ## ✍️ Author
 
 Made with 💛 by **Tanmay Sahu**   
-Live: https://mortgage-m-repayment-calculator.netlify.app/
+Live Server: https://mortgage-m-repayment-calculator.netlify.app/
 
 ---
 
